@@ -12,7 +12,8 @@ project flow chart
 <img width="935" alt="flowchart" src="https://user-images.githubusercontent.com/17266558/91579279-59d14d80-e986-11ea-9eea-7c6fd37249a9.png">
 
 feature dataset from the uci university site.
-train result Training Dataset.csv >> filename.pkl
+train result 
+Training Dataset.csv >> filename.pkl
 
 references
 
