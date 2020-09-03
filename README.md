@@ -1,5 +1,5 @@
 # capstone_design_project_1
-phising site Inspection
+<h2>phising site Inspection</h2>
 
 app.py << main flask source, 
 return 1(phishing) or 0(safety) result json type
@@ -17,5 +17,5 @@ Training Dataset.csv >> filename.pkl
 
 references
 
-http://archive.ics.uci.edu/ml/datasets/phishing+websites#
+http://archive.ics.uci.edu/ml/datasets/phishing+websites#  
 https://github.com/philomathic-guy/Malicious-Web-Content-Detection-Using-Machine-Learning
